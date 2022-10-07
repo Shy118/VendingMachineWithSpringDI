@@ -1,0 +1,6 @@
+2022-09-29T20:28:00.512833700 : User attempted to purchase an item ID not found in inventory | Change returned - [Dime: 0 Penny: 0 Nickel: 0 Quarter: 8 ]
+2022-09-29T20:28:58.511805200 : User attempted to purchase an item ID not found in inventory | Change returned - [Dime: 0 Penny: 0 Nickel: 0 Quarter: 32 ]
+2022-09-29T20:29:09.738315900 : User attempted to purchase Green Tea with insufficient funds | Quantity left in inventory - 10 User Inserted: 1.00 | Required: 1.10 | change returned - [Quarter: 4 Nickel: 0 Dime: 0 Penny: 0]
+2022-09-29T20:29:49.044107300 : Item 3 Coffee VENDED! | Quantity left in inventory - 11 | User inserted - $1.7 | Change returned - [Dime: 0 Penny: 0 Nickel: 0 Quarter: 2]
+2022-10-06T09:14:50.217525700 : Item 2 Soy Milk VENDED! | Quantity left in inventory - 7 | User inserted - $2.3 | Change returned - [Dime: 2 Penny: 0 Nickel: 0 Quarter: 4 ]
+2022-10-07T14:59:33.682860700 : Item 3 Coffee VENDED! | Quantity left in inventory - 10 | User inserted - $2.4 | Change returned - [Dime: 2 Quarter: 4 Penny: 0 Nickel: 0 ]
